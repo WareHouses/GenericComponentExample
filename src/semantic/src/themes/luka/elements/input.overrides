@@ -1,0 +1,15 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+.ui input[type="text"],
+.ui input[type="email"],
+.ui input[type="date"],
+.ui input[type="password"],
+.ui input[type="number"],
+.ui input[type="url"],
+.ui input[type="tel"] {
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid #DDDDDD;
+}

@@ -1,0 +1,1 @@
+export const DeepPurple = "#793CF2";export const Grey600 = "#828282";export const Blue500 = "#00A8FF";export const BlueGrey900 = "#424242";export const White = "#FBFBFB";export const Black = "#000000";export const Gainsboro = "#DCDCDC";
