@@ -1,14 +1,7 @@
 import React, { Component } from 'react';
 import DocMenu from "./components/DocMenu"
 import DocPage from "./components/DocPage"
-import { Info , findById } from './components/Info';
-
-
-
-
-let testExamples=[
-  {title: "example" , description: "an example" , react: <h1>Hola</h1> , code: "<h1>Hola</h1>"}
-]
+import { findById } from './components/Info';
 
 class App extends Component {
   constructor(props){

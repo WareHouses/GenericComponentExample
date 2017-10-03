@@ -1,5 +1,5 @@
 import React from 'react';
-import { Menu , Image , Button } from 'semantic-ui-react';
+import { Menu , Image } from 'semantic-ui-react';
 import { menuStyle } from '../Styles'
 
 class HeaderHero extends React.Component{

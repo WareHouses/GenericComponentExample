@@ -1,7 +1,6 @@
 import React from 'react';
 import { Grid , Button } from 'semantic-ui-react';
 import TextSegment from '../TextSegment';
-import { Redirect } from 'react-router-dom';
 import { startStyle } from '../Styles'
 
 class Start extends React.Component{
